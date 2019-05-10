@@ -1,5 +1,5 @@
 # Recipeadia
-Application is currently deployed to  https://snigdaa.github.io/Recipeadia/
+Application is currently deployed to  https://chrisram6.github.io/Recipeadia/.
 
 An application that allows you to search our cleaned database of ~15,000 recipes based on ingredients, dietary restrictions, or duration of cooking process
 
